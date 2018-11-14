@@ -2,6 +2,6 @@
 
 ## Architecture
 
-![`Architecture`](images/3.png)
+![`Architecture`](images/architecture.png)
 
 ### 1- Clone or Download 
