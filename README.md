@@ -22,9 +22,9 @@ It's a framework to solve problems at the speed and scale of the modern enterpri
 5. Retrieve data and upload it to Cloudant 
 
 ## Lab Steps
-1. Clone or Download 
-2. Create Cloudant service
-3. Create App ID service
+1. Clone or Download the github file
+2. Create [Cloudant](https://console.bluemix.net/catalog/services/cloudant "Cloudant service") service
+3. Create [App ID](https://console.bluemix.net/catalog/services/appid "App ID service") service
 4. To run locally
    1. Copy credentials of your Cloudant service
    2. Copy credentials of your App Id service
@@ -34,7 +34,7 @@ It's a framework to solve problems at the speed and scale of the modern enterpri
    1. Open manifest and add the name and the service of App ID and Cloudant
    2. Login to IBM Cloud via terminal then choose the right APi
    3. Push the App to IBM Cloud
-   4. From Cloud Foundray create connection App ID and Cloudant
+   4. From Cloud Foundray create connection App ID and Cloudant, then stop the app
    5. Copy your URL and add it to App ID
    6. Now you're app is deployed and you can start using it
 
