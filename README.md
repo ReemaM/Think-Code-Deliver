@@ -34,7 +34,7 @@ It's a framework to solve problems at the speed and scale of the modern enterpri
    #### 4.2. Copy credentials of your App Id service
    ![](images/4.2.gif)
    #### 4.3. Open App ID and add your own URL after going to **Manage > Authentication Settings**
-   ![](images/4.3.gif.gif)
+   ![](images/4.3.gif)
    #### 4.4. Run the App
 ### 5. To run in IBM Cloud
    #### 5.1. Open manifest and add the name and the service of App ID and Cloudant
