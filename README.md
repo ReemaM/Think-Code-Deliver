@@ -23,6 +23,7 @@ It's a framework to solve problems at the speed and scale of the modern enterpri
 
 ## Lab Steps
 ### 1. Clone or Download the github file
+![`Clone`](images/clone.PNG)
 ### 2. Create [Cloudant](https://console.bluemix.net/catalog/services/cloudant "Cloudant service") service
 ![](images/2.gif)
 ### 3. Create [App ID](https://console.bluemix.net/catalog/services/appid "App ID service") service
@@ -36,11 +37,14 @@ It's a framework to solve problems at the speed and scale of the modern enterpri
    #### 4.3. Open App ID and add your own URL after going to **Manage > Authentication Settings**
    ![](images/4.3.gif)
    #### 4.4. Run the App
+   First open your terminal/command prompt then write `cd [app path]` to get inside the directory of your project. After, write `npm install`, then finally write `npm start`. You can access your application through `https://localhost:3011`
 ### 5. To run in IBM Cloud
-   #### 5.1. Open manifest and add the name and the service of App ID and Cloudant
+   #### 5.1. Open manifest and add the name
    ![](images/5.1.gif)
    #### 5.2. Login to IBM Cloud via terminal then choose the right APi
+   Open your terminal/command prompt then write `ibmcloud login api`
    #### 5.3. Push the App to IBM Cloud
+   First write `ibmcloud target --cf`, then write `ibmcloud app push [name of your app] --no-start`
    ![](images/5.3.gif)
    #### 5.4. From Cloud Foundray create connection App ID and Cloudant, then stop the app
    ![](images/5.4.gif)
