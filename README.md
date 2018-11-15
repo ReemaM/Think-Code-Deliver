@@ -1,7 +1,7 @@
 # Think-Code-Deliver
 
 ## Introduction
-DevOps is IBM’s methodology to create an app from the design phase to the maintenance phase. In this tutorial, you will be taught the design thinking methodology of IBM, then we will learn more about IBM cloud and its services. Finally, you will be able to deploy your app to the cloud. 
+In this tutorial, we will talk a bit about the design thinking methodology of IBM, then we will make our own Cloud Web App using IBM Cloud and its services. 
 
 ## Prerequisites
 * [IBM Cloud](https://ibm.biz/thinkcodedeliver "IBM Cloud")
