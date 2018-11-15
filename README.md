@@ -48,7 +48,9 @@ It's a framework to solve problems at the speed and scale of the modern enterpri
    ![](images/5.3.gif)
    #### 5.4. From Cloud Foundray create connection App ID and Cloudant, then stop the app
    ![](images/5.4.gif)
+   ![`Stop App`](images/stop.png)
    #### 5.5. Copy your URL and add it to App ID
    ![](images/5.5.gif)
    #### 5.6. Now you're app is deployed and you can start using it
+   ![`Start App`](images/start.png)
 
