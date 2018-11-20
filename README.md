@@ -53,4 +53,5 @@ In this tutorial we will make our own Cloud Web App using IBM Cloud and its serv
 
 ## Conclusion 
 Congratulations! You now have your own cloud deployed storage web app. You can customize the app to your liking by changing the Github project's code, such as the HTML or CSS file.
-<div class="tenor-gif-embed" data-postid="8965716" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/achievement-well-done-gif-8965716">Achievement Well Done GIF</a> from <a href="https://tenor.com/search/achievement-gifs">Achievement GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<center><img src='images/welldone.gif'></center>
+
