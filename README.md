@@ -1,15 +1,12 @@
 # Think-Code-Deliver
 
 ## Introduction
-In this tutorial, we will talk a bit about the design thinking methodology of IBM, then we will make our own Cloud Web App using IBM Cloud and its services. 
+In this tutorial we will make our own Cloud Web App using IBM Cloud and its services. Starting from securing user information by using App ID service, to using IBM Cloud Cloudant database. In the end we will deploy our app both locally and to the cloud.
 
 ## Prerequisites
 * [IBM Cloud](https://ibm.biz/thinkcodedeliver "IBM Cloud")
 * [IBM Cloud CLI](https://ibm.biz/ibmcloudcli "IBM Cloud CLI")
 * [Node.js npm](https://nodejs.org/en "Node.js")
-
-## Design Thinking
-It's a framework to solve problems at the speed and scale of the modern enterprise. Whether you’re re-envisioning the customer experience for a multinational bank or planning your product’s next release, Design Thinking keeps you focused on what matters to users as you lead your team from ideas to outcomes. Design Thinking is a modern methodology to try and find solutions to everyday problems. It gives you the chance to be in the shoes of your customers, clients or marketed segment.
 
 ## Architecture
 
@@ -54,3 +51,5 @@ It's a framework to solve problems at the speed and scale of the modern enterpri
    #### 5.6. Now you're app is deployed and you can start using it
    ![`Start App`](images/start.png)
 
+## Conclusion 
+Congratulations! You now have your own cloud deployed storage web app. You can customize the app to your liking by changing the Github project's code, such as the HTML or CSS file.
