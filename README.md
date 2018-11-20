@@ -54,5 +54,5 @@ In this tutorial we will make our own Cloud Web App using IBM Cloud and its serv
 ## Conclusion 
 Congratulations! You now have your own cloud deployed storage web app. You can customize the app to your liking by changing the Github project's code, such as the HTML or CSS file.
 <p align="center">
-   ![](images/welldone.gif)
+![`Well Done`](images/welldone.gif)
 </p>
